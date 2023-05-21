@@ -1,0 +1,18 @@
+.wow {
+  text-align: center;
+  font-family: 'Gowun Dodum', sans-serif;
+font-family: 'Klee One', cursive;
+font-family: 'Zen Kurenaido', sans-serif;
+}
+.hidden {
+    display: none;
+  }
+
+  img {
+    align-items: center;
+    width: 1000px;
+    height: 500px;
+    object-fit: scale-down;
+  }
+
+ 
